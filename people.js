@@ -1,4 +1,4 @@
-const people = {
+var people = {
   0 : {
     name: 'Ali',
     phoneNumber: process.env.ALI_PHONE_NUMBER
